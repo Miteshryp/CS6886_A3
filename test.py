@@ -8,7 +8,6 @@ import copy
 
 from utils import *
 from quantize import *
-from finetune import *
 
 import argparse
 import wandb
